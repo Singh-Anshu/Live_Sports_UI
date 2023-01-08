@@ -1,16 +1,7 @@
-# demo_ui
+# SportsApp UI Design in Flutter
 
-A new Flutter project.
+# ScreenShot
 
-## Getting Started
+![Screenshot_Sports_ui1](https://user-images.githubusercontent.com/83568913/211206024-f8242e2a-8cac-4324-bcca-c65fe55651b9.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_Sports_ui2](https://user-images.githubusercontent.com/83568913/211206032-82cc3e72-73f9-4b62-98bf-197736d3d3eb.jpg)
